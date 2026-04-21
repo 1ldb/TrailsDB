@@ -1,0 +1,6 @@
+@TrailsDB.API_HostAddress = http://localhost:5277
+
+GET {{TrailsDB.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

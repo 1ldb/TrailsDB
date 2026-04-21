@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailsDB.API", "TrailsDB.API\TrailsDB.API.csproj", "{DA0B5D93-8F37-45D5-B42A-767D2192C831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailsDB.Core", "TrailsDB.Core\TrailsDB.Core.csproj", "{B6F362AB-B77C-426D-908D-2B3859A5A55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailsDB.Infrastructure", "TrailsDB.Infrastructure\TrailsDB.Infrastructure.csproj", "{DF4F515D-C5C0-4823-998F-DFA13501A9A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailsDB.Services", "TrailsDB.Services\TrailsDB.Services.csproj", "{D20395D1-136D-43C9-A6CF-1945DEA48E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0B5D93-8F37-45D5-B42A-767D2192C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0B5D93-8F37-45D5-B42A-767D2192C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0B5D93-8F37-45D5-B42A-767D2192C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0B5D93-8F37-45D5-B42A-767D2192C831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F362AB-B77C-426D-908D-2B3859A5A55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F362AB-B77C-426D-908D-2B3859A5A55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F362AB-B77C-426D-908D-2B3859A5A55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F362AB-B77C-426D-908D-2B3859A5A55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4F515D-C5C0-4823-998F-DFA13501A9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4F515D-C5C0-4823-998F-DFA13501A9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4F515D-C5C0-4823-998F-DFA13501A9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4F515D-C5C0-4823-998F-DFA13501A9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20395D1-136D-43C9-A6CF-1945DEA48E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20395D1-136D-43C9-A6CF-1945DEA48E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20395D1-136D-43C9-A6CF-1945DEA48E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20395D1-136D-43C9-A6CF-1945DEA48E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
