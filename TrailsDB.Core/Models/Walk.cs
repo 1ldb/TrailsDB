@@ -1,3 +1,5 @@
+namespace TrailsDB.Core.Models;
+
 public class Walk : BaseEntity
 {
     public string Name { get; set; } = string.Empty;

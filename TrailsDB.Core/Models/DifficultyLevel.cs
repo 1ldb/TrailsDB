@@ -1,3 +1,4 @@
+namespace TrailsDB.Core.Models;
 public enum DifficultyLevel
 {
     Easy,

@@ -1,3 +1,4 @@
+namespace TrailsDB.Core.Models;
 public class Review : BaseEntity
 {
     public int WalkId { get; set; }
